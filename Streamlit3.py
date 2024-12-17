@@ -31,7 +31,7 @@ lesDonneesDesComptes = {
             'email': 'utilisateur@example.com',
             'role': 'utilisateur'
         },
-        'utilisateur': {
+        'JeanMartin': {
             'name': 'MARTIN Jean',
             'password': 'JeanPass2024',
             'email': 'jean.martin@example.com',
