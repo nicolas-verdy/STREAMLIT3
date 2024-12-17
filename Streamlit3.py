@@ -58,6 +58,8 @@ authenticator = Authenticate(
 
 authenticator.login()
 
+st.write("User et mdp sont : utilisateur  ")
+
 # ========================
 # Page principale
 # ========================
