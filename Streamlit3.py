@@ -25,7 +25,7 @@ lesDonneesDesComptes = {
             'email': 'marie.dupont@example.com',
             'role': 'utilisateur'
         },
-        'JeanMartin': {
+        'utilisateur': {
             'name': 'utilisateur',
             'password': 'utilisateurMDP',
             'email': 'utilisateur@example.com',
