@@ -58,7 +58,7 @@ authenticator = Authenticate(
 
 authenticator.login()
 
-st.write("User et mdp sont : utilisateur  ")
+st.write("User = utilisateur   et mdp = utilisateurMDP  ,(mais chut, c'est un secret bien gardé :o) ")
 
 # ========================
 # Page principale
